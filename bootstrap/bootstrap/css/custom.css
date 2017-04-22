@@ -1,0 +1,17 @@
+body {
+}
+.starter-template {
+  padding: 1.5em;
+  text-align: center;
+}
+
+.container {
+    padding-top: 1.3em;
+}
+
+.container-fluid {
+}
+
+#box {
+    border: 10px groove blue;
+}
