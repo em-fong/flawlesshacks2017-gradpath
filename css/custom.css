@@ -1,0 +1,30 @@
+body {
+}
+
+.semesters {
+  padding: 1.5em;
+  text-align: center;
+}
+
+.goals {
+  padding: 1.5em;
+  text-align: center;
+  background-color: gainsboro;
+}
+
+.container {
+    padding-top: 1.3em;
+}
+
+.container-fluid {
+}
+
+#box {
+    border: 10px groove blue;
+}
+
+.jumbotron{
+    background-image: url(/bootstrap/graduation-celebration.png);
+    background-size: cover;}
+
+}
